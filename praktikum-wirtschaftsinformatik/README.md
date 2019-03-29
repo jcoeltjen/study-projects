@@ -4,6 +4,10 @@ Dieses Repository enthält einen Prototypen, der im Rahmen des Praktiums Wirtsch
 
 Der Protoyp soll eine Erfassung von Arbeitszeiten mittels einer minimalistischen Hardware-Lösung demonstrieren und erhebt keinerlei Anspruch auf Vollständigkeit und Fehlerfreiheit.
 
+## Video
+
+![video](prototype.gif)
+
 ## Bauteile
 
 - NodeMCU V1/V3
@@ -16,7 +20,7 @@ Der Protoyp soll eine Erfassung von Arbeitszeiten mittels einer minimalistischen
 
 ## Platine
 
-![](breadboard.jpg)
+![breadboard](breadboard.jpg)
 
 ## Quellcode
 
